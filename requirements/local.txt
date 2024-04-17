@@ -42,3 +42,4 @@ safety==1.9.0
 
 # Graphing diagrams
 pygraphviz==1.6
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
