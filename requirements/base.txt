@@ -40,3 +40,4 @@ pgeocode==0.2.1 # https://github.com/symerio/pgeocode
 # Elasticsearch 7.x
 cx-Oracle==7.3.0
 elasticsearch-dsl==7.2.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
